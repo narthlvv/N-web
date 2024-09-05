@@ -6,7 +6,7 @@ The N-link Tool is a powerful utility for extracting and analyzing links from we
 ## NOTE (Please, make sure you have installed python 3 )
 
 
-## Requirments ▶
+## For ▶
 
 ●🖥Linux 
 
