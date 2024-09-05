@@ -4,7 +4,9 @@
 The N-link Tool is a powerful utility for extracting and analyzing links from websites, as well as performing port scanning and domain-to-IP resolution. Developed in Python, this tool leverages libraries such as `aiohttp`, `BeautifulSoup`, and `sqlite3`.
 
 ## NOTE (Please, make sure you have installed python 3 )
-!(N-web.png)
+##Screenshot
+![Screenshot of N-web]
+(N-web.png)
 
 ## For ▶
 
