@@ -7,6 +7,7 @@ The N-link Tool is a powerful utility for extracting and analyzing links from we
 <img>N-web.png<img>
 
 ## For ▶
+![image](https://github.com/user-attachments/assets/75d0d6d0-9536-480c-bb8c-7ee4af35b246)
 
 ●🖥Linux 
 
