@@ -23,7 +23,9 @@ pip install beautifulsoup4
 pip install termcolor 
 <br>
 
-git clone https://github.com/narthlvv/N-web.git cd N-web 
+git clone https://github.com/narthlvv/N-web.git 
+<br>
+cd N-web 
 <br>
 python3 N-web.py
 <br>
