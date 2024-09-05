@@ -187,7 +187,7 @@ async def main():
         choice = input("Select an option (0/1/2/3/4): ").strip()
 
         if choice == '1':
-            # Request user input to start scanning
+            
             base_url = input("Enter the base URL to start extraction: ").strip()
             max_links = int(input("Enter the maximum number of links to extract (default is 1000): ").strip() or 1000)
             depth = int(input("Enter the depth of scan (default is 1): ").strip() or 1)
