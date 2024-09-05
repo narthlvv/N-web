@@ -18,9 +18,14 @@ The N-link Tool is a powerful utility for extracting and analyzing links from we
 
 ## install
 pip install aiohttp
+<br>
 pip install beautifulsoup4
+<br>
 pip install termcolor 
+<br>
 
 git clone https://github.com/narthlvv/N-web.git cd N-web 
+<br>
 python3 N-web.py
+<br>
 # n-web
